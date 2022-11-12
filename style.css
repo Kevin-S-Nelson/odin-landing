@@ -48,3 +48,8 @@ a {
   .author {
     align-self: flex-end;
   }
+
+  .section-four {
+    display: flex;
+    justify-content: space-around;
+  }
