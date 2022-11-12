@@ -17,3 +17,12 @@ a {
     gap: 16px;
     padding: 0px 16px;
   }
+
+  .section-one {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .section-one .header {
+    font-size: 24px;
+  }
