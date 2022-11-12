@@ -26,3 +26,14 @@ a {
   .section-one .header {
     font-size: 24px;
   }
+
+  .section-two  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: space-evenly;
+  }
