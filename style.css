@@ -12,6 +12,7 @@ body {
   justify-content: space-around;
   background-color: #1F2937;
   color: white;
+  padding: 25px;
 }
 
 .header-right {
@@ -133,4 +134,5 @@ button {
   align-items: center;
   background-color: #1F2937;
   color: white;
+  padding: 25px;
 }
