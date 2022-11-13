@@ -5,6 +5,7 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .header {
@@ -115,9 +116,13 @@ button {
 .section-four {
   display: flex;
   justify-content: space-around;
+  align-self: center;
   background-color: #3882f6;
   color: white;
   padding: 50px;
+  width: 800px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
 .four-right {
