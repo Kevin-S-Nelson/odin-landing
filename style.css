@@ -1,10 +1,8 @@
 body {
-  overflow: hidden;
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  overflow: auto;
 }
 
 .header {
@@ -13,19 +11,15 @@ body {
   background-color: #1F2937;
   color: white;
   width: 800px;
+  flex: auto;
   align-self: center;
-  padding: 0px 100%;
+  padding: 10px 100% 0;
 }
 
 .header-right {
     display: flex;
     font-size: 18px;
     color: #F9FAF8;
-}
-
-.header-right img {
-  height: 10px;
-  width: 10px;
 }
 
 .header img {
@@ -48,12 +42,12 @@ ul {
 .sections {
   display: flex;
   flex-direction: column;
-  flex: 1 0 800px;
 }
 
 .section-one {
   display: flex;
-  justify-content: space-around;
+  flex: 0 0 auto;
+  justify-content: space-between;
   background-color: #1F2937;
   color: white;
   width: 800px;
@@ -80,6 +74,9 @@ ul {
 
 .one-left {
   display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-basis: content;
   flex-direction: column;
   justify-content: space-between;
 }
@@ -110,6 +107,7 @@ button {
 
 .cards {
   display: flex;
+  flex-direction: row;
   justify-content: space-evenly;
   gap: 20px;
 }
