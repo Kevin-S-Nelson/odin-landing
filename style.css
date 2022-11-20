@@ -73,6 +73,11 @@ ul {
   color: #F9FAF8;
 }
 
+.section-one img {
+  height: 250px;
+  width: auto;
+}
+
 button {
   border: #e5e7eb;
   border-radius: 8px;

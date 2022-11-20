@@ -11,3 +11,11 @@ christmas.jpg
     Jonathan Pham https://www.pexels.com/photo/white-and-red-mechanical-keyboard-13728045/
 corner.jpg
     Shojol Islam https://www.pexels.com/photo/mechanical-keyboard-14267038/
+alice.jpg
+    Bernin Uben https://unsplash.com/photos/b20J7YbTK8w
+switches.jpg
+    Jan Loyde Cabrera https://unsplash.com/photos/J3A5rtfHu0M
+hello.jpg
+    Benjamin Sow https://unsplash.com/photos/rd3c5yP0uwE
+cable.jpg
+    Jay Zhang https://unsplash.com/photos/S-dYqQZ5FzI
