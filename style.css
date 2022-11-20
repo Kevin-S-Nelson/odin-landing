@@ -1,11 +1,10 @@
 body {
-  height: 100vh;
-  margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  overflow: auto;
 }
 
 .header {
@@ -60,6 +59,7 @@ ul {
   width: 800px;
   align-self: center;
   padding: 50px 100%;
+  gap: 10px;
 }
 
 .section-one .heading {
@@ -86,7 +86,7 @@ ul {
 
 button {
   border: #e5e7eb;
-  border-radius: 8px;
+  border-radius: 16px;
   background:  #3882F6;
   color: white;
   padding: 8px  16px;
