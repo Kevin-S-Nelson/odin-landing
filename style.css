@@ -78,6 +78,12 @@ ul {
   width: auto;
 }
 
+.one-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 button {
   border: #e5e7eb;
   border-radius: 8px;
