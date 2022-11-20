@@ -30,7 +30,7 @@ body {
 
 .header img {
   height: auto;
-  width: 200px;
+  width: 100px;
 }
 
 a {
@@ -157,7 +157,12 @@ button {
   width: 800px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  margin-top: 50px;
+  margin: 50px 0;
+}
+
+.section-four .heading {
+  font-size: 22px;
+  font-weight: bold[];
 }
 
 .four-right {
